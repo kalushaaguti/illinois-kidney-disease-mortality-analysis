@@ -101,7 +101,7 @@ This project demonstrates how GIS can be used to analyze and communicate long-te
 ---
 
 ## Map Samples
-![Map 2008](maps/2008)
+![Map 2008](maps/2008.jpg)
 ![Map 2015](maps/2015)
 ![Map 2022](maps/2022)
 
