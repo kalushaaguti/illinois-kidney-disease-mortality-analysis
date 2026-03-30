@@ -100,6 +100,14 @@ This project demonstrates how GIS can be used to analyze and communicate long-te
 
 ---
 
+## Map Samples
+![Map 2008](maps/map_2008.png)
+![Map 2015](maps/map_2015.png)
+![Map 2022](maps/map_2022.png)
+
+## Animation
+[Watch Animation](animation/your-video-name.mp4)
+
 ## Author
 Kalusha Aguti  
 M.S. Geography (GIS & Data Analytics Application)  
