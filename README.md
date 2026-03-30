@@ -106,7 +106,7 @@ This project demonstrates how GIS can be used to analyze and communicate long-te
 ![Map 2022](maps/map_2022.png)
 
 ## Animation
-[Watch Animation](animation/your-video-name.mp4)
+[Watch Animation](animation/kidney_disease_animation.mp4)
 
 ## Author
 Kalusha Aguti  
