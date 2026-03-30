@@ -101,9 +101,9 @@ This project demonstrates how GIS can be used to analyze and communicate long-te
 ---
 
 ## Map Samples
-![Map 2008](maps/2008.png)
-![Map 2015](maps/2015.png)
-![Map 2022](maps/2022.png)
+![Map 2008](maps/2008)
+![Map 2015](maps/2015)
+![Map 2022](maps/2022)
 
 ## Animation
 [Watch Animation](animation/kidney_disease_animation.mp4)
